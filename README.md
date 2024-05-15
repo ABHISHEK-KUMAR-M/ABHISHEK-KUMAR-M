@@ -1,4 +1,4 @@
-![logo]("https://github.com/ABHISHEK-KUMAR-M/ABHISHEK-KUMAR-M/blob/main/White%20and%20Red%20Light%20Game%20Channel%20Youtube%20Channel%20Art_11zon.png")
+![logo](https://github.com/ABHISHEK-KUMAR-M/ABHISHEK-KUMAR-M/blob/main/White%20and%20Red%20Light%20Game%20Channel%20Youtube%20Channel%20Art_11zon.png?raw=true)
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR M</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
